@@ -38,7 +38,7 @@
 ## 📫 Contato
 
 - **WhatsApp:** [942347516](https://wa.me/942347516)
-- **Instagram:** [horaciomanuel99](https://www.instagram.com/horaciomanuel99)
+- **Instagram:** [@horaciomanuel99](https://www.instagram.com/horaciomanuel99)
 - **Email:** manuellhoracio26@gmail.com
 
 ---
