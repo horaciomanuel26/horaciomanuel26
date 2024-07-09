@@ -1,13 +1,6 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/horaciomanuel99/horaciomanuel99/main/assets/banner.gif" alt="Horácio Manuel" />
+  <code style="font-size: 2.5em;">Hello World!</code>
 </h1>
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/horaciomanuel99/horaciomanuel99/main/assets/typing.svg" alt="Programador e Designer" />
-</h3>
-
----
-
 ## 🌟 Sobre Mim
 
 - **Nome:** Horácio Manuel
