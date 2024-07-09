@@ -104,41 +104,23 @@ Hello! I'm **Horácio Manuel**, a software developer and designer with a passion
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=horaciomanuel99&theme=darcula" alt="GitHub Streak">
-  </a>
-</div>
-
-<br>
-<table>
-  <tr style="border: none;">
-    <td style="border: none;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=horaciomanuel26&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=horaciomanuel26&show_icons=true&title_color=C00102&icon_color=C00102"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=horaciomanuel26&show_icons=true&title_color=C00102&icon_color=C00102" />
-      </picture>
-    </td>
-    <td style="border: none;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel26&layout=compact&theme=dark&title_color=C00102"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel26&layout=compact&title_color=C00102"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel26&layout=compact&title_color=C00102" />
-      </picture>
-    </td>
-  </tr>
+<table style="width: 100%;">
+    <tr style="border: none;">
+        <td style="border: none; width: 100%;">
+            <picture>
+                <source
+                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel26&layout=compact&theme=dark&title_color=C00102"
+                    media="(prefers-color-scheme: dark)"
+                />
+                <source
+                    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel26&layout=compact&title_color=C00102"
+                    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+                />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel26&layout=compact&title_color=C00102" style="width: 100%;" />
+            </picture>
+        </td>
+    </tr>
 </table>
+
+
+<br/><br/>
