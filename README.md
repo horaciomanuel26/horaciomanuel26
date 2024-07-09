@@ -1,10 +1,17 @@
 <h1 align="center">
-  <code style="font-size: 2.5em;">Hello World!</code>
+  <code style="font-size: 2.5em; font-family: 'Courier New', monospace;">Hello World!</code>
 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-Software%20Engineer-blue" alt="Developer Badge">
+  <img src="https://img.shields.io/badge/Designer-Creative%20Thinker-orange" alt="Designer Badge">
+</p>
+
+---
+
 ## 🌟 Sobre Mim
 
-- **Nome:** Horácio Manuel
-- **Especialização:** Desenvolvimento de Software e Design
+Olá! Sou **Horácio Manuel**, um desenvolvedor de software e designer com uma paixão por criar soluções inovadoras e elegantes. Minha experiência abrange diversas áreas de programação e design, permitindo-me abordar projetos de forma criativa e eficiente.
 
 ---
 
@@ -26,23 +33,51 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" style="margin: 4px;"/>
   <img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="Visual Basic" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin: 4px;"/>
+  <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=tkinter&logoColor=white" alt="Tkinter" style="margin: 4px;"/>
 </div>
+
+---
+
+## 💼 Projetos
+
+### Projetos em Destaque
+- **[Manuellart](https://github.com/horaciomanuel99/Manuellart):** Um mini site que destaca meu trabalho e habilidades em design e desenvolvimento.
+
+### Outros Projetos
+- **Gestão Acadêmica:** Desenvolvimento de sistemas de gerenciamento para instituições de ensino.
+- **Gestão Empresarial:** Criação de soluções de software para otimização de processos empresariais.
+
+---
+
 ## 🎨 Hobbies
 
-- Praticar Desportos
-- Criar projetos de design
-- Ler um livro
+- **Praticar Desportos:** Manter-se ativo e saudável.
+- **Criar Projetos de Design:** Sempre buscando novas inspirações e técnicas.
+- **Ler um Livro:** Aprender e relaxar ao mesmo tempo.
 
 ---
 
 ## 📫 Contato
 
-- **WhatsApp:** [942347516](https://wa.me/942347516)
-- **Instagram:** [@horaciomanuel99](https://www.instagram.com/horaciomanuel99)
-- **Email:** manuellhoracio26@gmail.com
+<div align="center">
+  <a href="https://wa.me/942347516">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://www.instagram.com/horaciomanuel99">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:manuellhoracio26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
 ---
 
-"Programação é uma arte e a arte de programar é criar algo maravilhoso a partir do nada."
+> "Programação é uma arte e a arte de programar é criar algo maravilhoso a partir do nada."
 
-😊 Obrigado pela visita!
+😊 **Obrigado pela visita!**
