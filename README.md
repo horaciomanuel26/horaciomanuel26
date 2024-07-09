@@ -1,21 +1,40 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=horaciomanuel26.horaciomanuel26" />
+
 <h1 align="center">
-  <code style="font-size: 2.5em; font-family: 'Courier New', monospace;">Hello World!</code>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Horácio+Manuel!;" />
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer-Software%20Engineer-blue" alt="Developer Badge">
-  <img src="https://img.shields.io/badge/Designer-Creative%20Thinker-orange" alt="Designer Badge">
-</p>
+<h3 align="center">A passionate software developer and designer from Angola</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **academic and business management software**
+
+ 📝 I regularly work on various design and software projects.
+ 
+ 👯 I’m looking to collaborate on innovative software projects.
+
+💬 Ask me about **Python, JavaScript, Laravel, Angular... or anything [here](https://github.com/horaciomanuel99/horaciomanuel99/issues)**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:manuellhoracio26@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+</div>
+
+ <hr/>
+ 
+## 🌟 About Me
+
+Hello! I'm **Horácio Manuel**, a software developer and designer with a passion for creating innovative and elegant solutions. My expertise spans various programming languages and design tools, allowing me to approach projects creatively and efficiently.
 
 ---
 
-## 🌟 Sobre Mim
-
-Olá! Sou **Horácio Manuel**, um desenvolvedor de software e designer com uma paixão por criar soluções inovadoras e elegantes. Minha experiência abrange diversas áreas de programação e design, permitindo-me abordar projetos de forma criativa e eficiente.
-
----
-
-## 🛠️ Habilidades
+## 🛠️ Skills
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 4px;"/>
@@ -43,26 +62,26 @@ Olá! Sou **Horácio Manuel**, um desenvolvedor de software e designer com uma p
 
 ---
 
-## 💼 Projetos
+## 💼 Projects
 
-### Projetos em Destaque
-- **[Manuellart](https://github.com/horaciomanuel99/Manuellart):** Um mini site que destaca meu trabalho e habilidades em design e desenvolvimento.
+### Featured Projects
+- **[Manuellart](https://github.com/horaciomanuel99/Manuellart):** A mini site that showcases my work and skills in design and development.
 
-### Outros Projetos
-- **Gestão Acadêmica:** Desenvolvimento de sistemas de gerenciamento para instituições de ensino.
-- **Gestão Empresarial:** Criação de soluções de software para otimização de processos empresariais.
+### Other Projects
+- **Academic Management Software:** Development of management systems for educational institutions.
+- **Business Management Software:** Creation of software solutions for business process optimization.
 
 ---
 
 ## 🎨 Hobbies
 
-- **Praticar Desportos:** Manter-se ativo e saudável.
-- **Criar Projetos de Design:** Sempre buscando novas inspirações e técnicas.
-- **Ler um Livro:** Aprender e relaxar ao mesmo tempo.
+- **Playing Sports:** Staying active and healthy.
+- **Creating Design Projects:** Always seeking new inspirations and techniques.
+- **Reading:** Learning and relaxing at the same time.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
   <a href="https://wa.me/942347516">
@@ -81,3 +100,45 @@ Olá! Sou **Horácio Manuel**, um desenvolvedor de software e designer com uma p
 > "Programação é uma arte e a arte de programar é criar algo maravilhoso a partir do nada."
 
 😊 **Obrigado pela visita!**
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=horaciomanuel99&theme=darcula" alt="GitHub Streak">
+  </a>
+</div>
+
+<br>
+<table>
+  <tr style="border: none;">
+    <td style="border: none;">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=horaciomanuel26&show_icons=true&theme=dark&title_color=C00102&icon_color=C00102"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=horaciomanuel26&show_icons=true&title_color=C00102&icon_color=C00102"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=horaciomanuel26&show_icons=true&title_color=C00102&icon_color=C00102" />
+      </picture>
+    </td>
+    <td style="border: none;">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel26&layout=compact&theme=dark&title_color=C00102"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel26&layout=compact&title_color=C00102"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel26&layout=compact&title_color=C00102" />
+      </picture>
+    </td>
+  </tr>
+</table>
