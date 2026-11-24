@@ -2,12 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d0a14,2a1450,a855f7&height=140&section=header&text=HOR%C3%81CIO%20MANUEL&fontSize=44&fontColor=ffffff&fontAlignY=45&desc=Software%20Developer%20%C2%B7%20Designer%20%C2%B7%20Angola&descSize=16&descAlignY=68" width="100%" alt="Horácio Manuel" />
 
-<br/>
+<a href="https://github.com/horaciomanuel99">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C77DFF&center=true&vCenter=true&width=560&lines=Software+Developer+%7C+Laravel+%26+PHP;Designer+Gr%C3%A1fico+%7C+Branding;Sistemas+de+Gest%C3%A3o+para+Empresas;Angola+%F0%9F%87%A6%F0%9F%87%B4" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 <a href="mailto:manuellhoracio26@gmail.com"><img src="https://img.shields.io/badge/Email-1a1325?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://wa.me/942347516"><img src="https://img.shields.io/badge/WhatsApp-1a1325?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://www.instagram.com/horaciomanuel99"><img src="https://img.shields.io/badge/Instagram-1a1325?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://github.com/horaciomanuel99"><img src="https://img.shields.io/badge/GitHub-1a1325?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=horaciomanuel99&style=flat-square&color=a855f7&label=PERFIL" alt="Visualizações do perfil"/>
 
 </div>
 
@@ -71,6 +76,14 @@ I'm **Horácio Manuel**, a software developer and designer from Angola with a pa
 - **Academic Management Software:** development of management systems for educational institutions.
 - **Business Management Software:** creation of software solutions for business process optimization.
 
+<div align="center">
+
+<a href="https://github.com/horaciomanuel99/Manuellart">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=horaciomanuel99&repo=Manuellart&bg_color=0d0a14&title_color=C77DFF&text_color=D8C7F0&icon_color=a855f7&border_color=3b2a5c" alt="Manuellart" />
+</a>
+
+</div>
+
 ## Interests
 
 - **Sports:** staying active and healthy.
@@ -79,7 +92,28 @@ I'm **Horácio Manuel**, a software developer and designer from Angola with a pa
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel26&layout=compact&bg_color=0d0a14&title_color=C77DFF&text_color=D8C7F0&border_color=3b2a5c" alt="Top languages" />
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=horaciomanuel99&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=0d0a14&title_color=C77DFF&text_color=D8C7F0&icon_color=a855f7&border_color=3b2a5c" alt="Estatísticas do GitHub" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel99&layout=compact&langs_count=8&bg_color=0d0a14&title_color=C77DFF&text_color=D8C7F0&border_color=3b2a5c" alt="Linguagens mais usadas" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=horaciomanuel99&background=0d0a14&ring=a855f7&fire=C77DFF&currStreakLabel=D8C7F0&sideLabels=D8C7F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9d8bb8&stroke=3b2a5c&border=3b2a5c" alt="Sequência de contribuições" />
+
+</div>
+
+## Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=horaciomanuel99&bg_color=0d0a14&color=D8C7F0&line=a855f7&point=FFFFFF&area=true&area_color=a855f7&hide_border=true&radius=8" alt="Gráfico de atividade" width="100%" />
+
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=horaciomanuel99&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Troféus" />
+
+</div>
 
 <br/>
 
