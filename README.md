@@ -6,122 +6,163 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=C77DFF&center=true&vCenter=true&width=560&lines=Software+Developer+%7C+Laravel+%26+PHP;Designer+Gr%C3%A1fico+%7C+Branding;Sistemas+de+Gest%C3%A3o+para+Empresas;Angola+%F0%9F%87%A6%F0%9F%87%B4" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+</div>
 
-<a href="mailto:manuellhoracio26@gmail.com"><img src="https://img.shields.io/badge/Email-1a1325?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://wa.me/942347516"><img src="https://img.shields.io/badge/WhatsApp-1a1325?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-<a href="https://www.instagram.com/horaciomanuel99"><img src="https://img.shields.io/badge/Instagram-1a1325?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://github.com/horaciomanuel99"><img src="https://img.shields.io/badge/GitHub-1a1325?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=horaciomanuel99&style=flat-square&color=a855f7&label=PERFIL" alt="Visualizações do perfil"/>
+<br/>
+
+<table align="center" border="0">
+  <tr>
+    <td valign="middle">
+      <h3>👋 Olá, sou o Horácio</h3>
+      <h4>💻 Welcome to my GitHub Universe!</h4>
+      <ul>
+        <li>🧑‍💻 Building management systems that help businesses grow</li>
+        <li>🎨 Designing brands, posts and visual identities</li>
+        <li>📚 Focused on learning and improving every day</li>
+        <li>🤝 Open to collaboration on innovative projects</li>
+        <li>🛠️ Offering services in software and design</li>
+      </ul>
+    </td>
+    <td valign="middle" align="center">
+      <img src="./assets/mascote.png" width="260" alt="Mascote a programar com café" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=horaciomanuel99&style=flat-square&color=a855f7&label=VISITORS" alt="Visitors"/>
+<br/><br/>
+<a href="mailto:manuellhoracio26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://wa.me/942347516"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://www.instagram.com/horaciomanuel99"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://github.com/horaciomanuel99"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
 <br/>
 
-## About
+## 🎯 About Me
 
-I'm **Horácio Manuel**, a software developer and designer from Angola with a passion for creating innovative and elegant solutions. My expertise spans various programming languages and design tools, allowing me to approach projects creatively and efficiently.
+<table>
+  <tr>
+    <td valign="top" width="62%">
 
-- Currently working on **academic and business management software**
-- Regularly working on a variety of design and software projects
-- Open to collaborating on innovative software projects
-- Ask me about **Laravel, PHP, JavaScript, Python, Angular** or anything else [here](https://github.com/horaciomanuel99/horaciomanuel99/issues)
+```js
+const horacio = {
+  role: "Software Developer & Designer",
+  location: "Angola 🇦🇴",
 
-## Skills
+  building: [
+    "Academic Management Software",
+    "Business Management Software",
+  ],
 
-**Backend**
-<br/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/Visual_Basic-5C2D91?style=flat-square&logo=.net&logoColor=white" alt="Visual Basic"/>
+  learning: [
+    "Clean Architecture",
+    "APIs & Front-end moderno",
+    "Design de Marca",
+  ],
+
+  tech: {
+    backend:  ["Laravel", "PHP", "Python"],
+    frontend: ["JavaScript", "Angular", "Bootstrap"],
+    design:   ["Photoshop", "GIMP"],
+  },
+};
+```
+
+</td>
+    <td valign="middle" align="center" width="38%">
+      <img src="./assets/gato.png" width="280" alt="Gato a programar" />
+    </td>
+  </tr>
+</table>
+
+> *"Programação é uma arte e a arte de programar é criar algo maravilhoso a partir do nada."*
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:manuellhoracio26@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://wa.me/942347516"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://www.instagram.com/horaciomanuel99"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://github.com/horaciomanuel99"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,py,cs,js,angular,html,css,bootstrap,git,github,vscode,ps&perline=13" alt="Tech stack" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/VISUAL_BASIC-5C2D91?style=flat-square&logo=.net&logoColor=white" alt="Visual Basic"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"/>
 <img src="https://img.shields.io/badge/HTTP-005C97?style=flat-square&logo=cloudflare&logoColor=white" alt="HTTP"/>
-
-**Frontend**
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/Tkinter-FF6F00?style=flat-square&logo=tkinter&logoColor=white" alt="Tkinter"/>
-
-**Data and Office**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-
-**Design**
-<br/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+<img src="https://img.shields.io/badge/TKINTER-FF6F00?style=flat-square&logo=tkinter&logoColor=white" alt="Tkinter"/>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/EXCEL-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white" alt="GIMP"/>
 
-**Tools**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</div>
 
-## Projects
-
-**Featured**
-
-- [**Manuellart**](https://github.com/horaciomanuel99/Manuellart): a mini site that showcases my work and skills in design and development.
-
-**Other**
-
-- **Academic Management Software:** development of management systems for educational institutions.
-- **Business Management Software:** creation of software solutions for business process optimization.
+## 🚀 Projects
 
 <div align="center">
 
 <a href="https://github.com/horaciomanuel99/Manuellart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=horaciomanuel99&repo=Manuellart&bg_color=0d0a14&title_color=C77DFF&text_color=D8C7F0&icon_color=a855f7&border_color=3b2a5c" alt="Manuellart" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=horaciomanuel99&repo=Manuellart&theme=dracula&border_color=3b2a5c" alt="Manuellart" />
 </a>
 
 </div>
 
-## Interests
+- **Manuellart:** a mini site that showcases my work and skills in design and development.
+- **Academic Management Software:** management systems for educational institutions.
+- **Business Management Software:** software solutions for business process optimization.
 
-- **Sports:** staying active and healthy.
-- **Design projects:** always seeking new inspirations and techniques.
-- **Reading:** learning and relaxing at the same time.
-
-## GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=horaciomanuel99&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=0d0a14&title_color=C77DFF&text_color=D8C7F0&icon_color=a855f7&border_color=3b2a5c" alt="Estatísticas do GitHub" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horaciomanuel99&layout=compact&langs_count=8&bg_color=0d0a14&title_color=C77DFF&text_color=D8C7F0&border_color=3b2a5c" alt="Linguagens mais usadas" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=horaciomanuel99&theme=dracula" alt="Profile details" width="100%" />
 
-<br/>
+<table border="0">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=horaciomanuel99&theme=dracula" alt="Stats" width="100%" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=horaciomanuel99&theme=dracula&utcOffset=1" alt="Productive time" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=horaciomanuel99&theme=dracula" alt="Top languages by repo" width="100%" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=horaciomanuel99&theme=dracula" alt="Top languages by commit" width="100%" /></td>
+  </tr>
+</table>
 
-<img src="https://streak-stats.demolab.com?user=horaciomanuel99&background=0d0a14&ring=a855f7&fire=C77DFF&currStreakLabel=D8C7F0&sideLabels=D8C7F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9d8bb8&stroke=3b2a5c&border=3b2a5c" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=horaciomanuel99&theme=dracula&border=3b2a5c&stroke=3b2a5c" alt="Streak" />
 
 </div>
 
-## Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=horaciomanuel99&bg_color=0d0a14&color=D8C7F0&line=a855f7&point=FFFFFF&area=true&area_color=a855f7&hide_border=true&radius=8" alt="Gráfico de atividade" width="100%" />
-
-## Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=horaciomanuel99&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Troféus" />
+<img src="https://github-profile-trophy.vercel.app/?username=horaciomanuel99&theme=dracula&column=7&margin-w=10&margin-h=10" alt="Trophies" />
 
 </div>
 
-<br/>
+## 📈 Contribution Graph
 
-> *"Programação é uma arte e a arte de programar é criar algo maravilhoso a partir do nada."*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=horaciomanuel99&bg_color=0d0a14&color=D8C7F0&line=a855f7&point=FFFFFF&area=true&area_color=a855f7&hide_border=true&radius=8" alt="Contribution graph" width="100%" />
+
+<br/>
 
 <div align="center">
 
-Thank you for visiting.
+Thank you for visiting. ☕
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d0a14,2a1450,a855f7&height=40&section=footer" width="100%" alt="" />
 
